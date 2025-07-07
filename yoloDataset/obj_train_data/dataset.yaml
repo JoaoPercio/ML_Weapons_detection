@@ -1,0 +1,6 @@
+path: C:\Users\joao\Desktop\TesteIA\yoloDataset\obj_train_data
+train: images/train
+val: images/test
+
+nc: 4
+names: ['pistol', 'rifle', 'knife', 'shotgun']
